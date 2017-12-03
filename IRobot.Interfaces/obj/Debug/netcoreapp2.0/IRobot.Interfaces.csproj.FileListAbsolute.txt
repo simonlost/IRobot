@@ -1,0 +1,11 @@
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\obj\Debug\netcoreapp2.0\IRobot.Interfaces.csprojResolveAssemblyReference.cache
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\obj\Debug\netcoreapp2.0\IRobot.Interfaces.csproj.CoreCompileInputs.cache
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\obj\Debug\netcoreapp2.0\IRobot.Interfaces.AssemblyInfoInputs.cache
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\obj\Debug\netcoreapp2.0\IRobot.Interfaces.AssemblyInfo.cs
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\bin\Debug\netcoreapp2.0\IRobot.Interfaces.deps.json
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\bin\Debug\netcoreapp2.0\IRobot.Interfaces.dll
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\bin\Debug\netcoreapp2.0\IRobot.Interfaces.pdb
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\obj\Debug\netcoreapp2.0\IRobot.Interfaces.dll
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\obj\Debug\netcoreapp2.0\IRobot.Interfaces.pdb
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\bin\Debug\netcoreapp2.0\IRobot.Enumerators.dll
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Interfaces\bin\Debug\netcoreapp2.0\IRobot.Enumerators.pdb

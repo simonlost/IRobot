@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IRobot.Interfaces\IRobot.Interfaces.csproj" />
+    <ProjectReference Include="..\IRobot.Models\IRobot.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\bin\Debug\netcoreapp2.0\IRobot.Enumerators.deps.json
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\bin\Debug\netcoreapp2.0\IRobot.Enumerators.dll
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\bin\Debug\netcoreapp2.0\IRobot.Enumerators.pdb
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\obj\Debug\netcoreapp2.0\IRobot.Enumerators.csproj.CoreCompileInputs.cache
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\obj\Debug\netcoreapp2.0\IRobot.Enumerators.AssemblyInfoInputs.cache
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\obj\Debug\netcoreapp2.0\IRobot.Enumerators.AssemblyInfo.cs
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\obj\Debug\netcoreapp2.0\IRobot.Enumerators.dll
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\obj\Debug\netcoreapp2.0\IRobot.Enumerators.pdb
+c:\users\simonwhite\source\repos\IRobot.Console\IRobot.Enumerators\obj\Debug\netcoreapp2.0\IRobot.Enumerators.csprojResolveAssemblyReference.cache
