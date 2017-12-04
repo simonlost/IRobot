@@ -3,19 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRobot.Console", "IRobot.Console\IRobot.Console.csproj", "{B828B500-87CD-4A30-B65B-A928164B4238}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRobot.Console", "IRobot.Console\IRobot.Console.csproj", "{B828B500-87CD-4A30-B65B-A928164B4238}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C72E95E1-DFE2-4E75-88C4-714F105E8F30}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{121956BC-1DCC-4A58-A6B8-918BB3F60F49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRobot.Tests", "IRobot.Tests\IRobot.Tests.csproj", "{5DC6670D-9382-4699-9019-06066C3E8236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRobot.Tests", "IRobot.Tests\IRobot.Tests.csproj", "{5DC6670D-9382-4699-9019-06066C3E8236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRobot.Interfaces", "IRobot.Interfaces\IRobot.Interfaces.csproj", "{F53C875F-128B-4FDC-A7AF-F330FBF69EBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRobot.Interfaces", "IRobot.Interfaces\IRobot.Interfaces.csproj", "{F53C875F-128B-4FDC-A7AF-F330FBF69EBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRobot.Models", "IRobot.Models\IRobot.Models.csproj", "{4F4F254A-A4B5-4FC8-8DB4-5D03ECE4204E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRobot.Models", "IRobot.Models\IRobot.Models.csproj", "{4F4F254A-A4B5-4FC8-8DB4-5D03ECE4204E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRobot.Enumerators", "IRobot.Enumerators\IRobot.Enumerators.csproj", "{52394265-4B0F-423C-A296-6D9656E4E3FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IRobot.Enumerators", "IRobot.Enumerators\IRobot.Enumerators.csproj", "{52394265-4B0F-423C-A296-6D9656E4E3FF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39F43E7D-0F79-40CB-8E3F-A3C365B589F0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
